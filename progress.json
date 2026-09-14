@@ -1,0 +1,17 @@
+{
+  "updated": "2026-09-14",
+  "process": [
+    { "list": "Start project SUBROID ", "status": "Done", "percent": 100 },
+    { "list": "Design", "status": "in progress", "percent": 50 },
+    { "list": "coding", "status": "in progress", "percent": 41 },
+    { "list": "logic and pipelines", "status": "in progress", "percent": 62 },
+    { "list": "check bug", "status": "Very much bug", "percent": 0 }
+  ],
+  "skills": [
+    { "skills": "HTML", "percent": 21 },
+    { "skills": "CSS", "percent": 12 },
+    { "skills": "JavaScript", "percent": 8 },
+    { "skills": "LUA", "percent": 15 },
+    { "skills": "C++", "percent": 13 }
+  ]
+}
